@@ -1,4 +1,4 @@
-# ColpyIMG <img src="colpyt.png" width="30"/>
+# ColpyIMG <img src="../colpyt.png" width="30"/>
 
 ### Example:
 ```python
